@@ -1,0 +1,5 @@
+﻿{
+  "name": "api-assistant",
+  "version": "1.0.0",
+  "description": "Multi-agent workflow plugin for reviewing and fixing API code."
+}

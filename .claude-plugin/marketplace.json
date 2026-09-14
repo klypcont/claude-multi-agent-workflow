@@ -1,0 +1,9 @@
+﻿{
+  "plugins": [
+    {
+      "name": "api-assistant",
+      "source": "./",
+      "description": "Multi-agent workflow plugin for reviewing and fixing API code."
+    }
+  ]
+}
