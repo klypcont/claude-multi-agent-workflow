@@ -1,4 +1,5 @@
-﻿{
+{
+  "name": "api-assistant",
   "plugins": [
     {
       "name": "api-assistant",

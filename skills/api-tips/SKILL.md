@@ -1,4 +1,4 @@
-﻿---
+---
 name: api-tips
 description: Best practices for working with the course Express API.
 ---
