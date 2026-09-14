@@ -1,4 +1,5 @@
 ---
+name: code-writer
 description: Use this agent to write or edit code files to implement fixes or features.
 tools: Read,Write,Edit,Bash
 model: claude-3-5-sonnet

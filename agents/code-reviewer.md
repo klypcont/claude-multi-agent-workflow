@@ -1,4 +1,5 @@
 ---
+name: code-reviewer
 description: Use this agent to review API route code for bugs, style issues, and conventions.
 tools: Read,Grep,Glob
 model: claude-3-5-haiku
